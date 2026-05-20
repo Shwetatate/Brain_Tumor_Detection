@@ -21,24 +21,14 @@ This project classifies brain MRI scans into four categories — **Glioma**, **M
 
 ## 📸 Screenshots
 
-<table>
-  <tr>
-    <td align="center"><b>Login / Sign Up</b></td>
-    <td align="center"><b>Doctor Upload</b></td>
-  </tr>
-  <tr>
-    <td><img src="docs/login.png" width="480"/></td>
-    <td><img src="docs/doctor-upload.png" width="480"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Analysis Result + Grad-CAM</b></td>
-    <td align="center"><b>Case Detail — Grad-CAM · SHAP · LIME + AI Explanation</b></td>
-  </tr>
-  <tr>
-    <td><img src="docs/doctor-result.png" width="480"/></td>
-    <td><img src="docs/case-detail.png" width="480"/></td>
-  </tr>
-</table>
+<img width="2476" height="1441" alt="ResNet101_meningioma_MENINGIOMA_0063 (1)" src="https://github.com/user-attachments/assets/43ba9ca6-f65d-4f6d-859b-66d795ff4e16" />
+
+<img width="2476" height="1441" alt="ResNet101_no_tumor_NO_TUMOR_0023" src="https://github.com/user-attachments/assets/cd4b6109-e595-4f9c-a4bd-2b20038bab98" />
+
+<img width="2476" height="1441" alt="ResNet101_pituitary_PITUITARY_0008" src="https://github.com/user-attachments/assets/87447f34-ca46-4379-abcc-869916210411" />
+
+<img width="2476" height="1441" alt="ResNet101_glioma_GLIOMA_0029 (1)" src="https://github.com/user-attachments/assets/14020a7c-8fe6-4fe1-bbbe-c942e1a1c922" />
+
 
 ---
 
